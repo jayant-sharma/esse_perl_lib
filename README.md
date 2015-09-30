@@ -1,18 +1,10 @@
-This project contains files for implementing 
+This project contains files for implementing Perl library for important utilities for EDA software development and Unix/Linux administration.
 
 Requirements:
 
-	ipython2
-	ipython notebook
-	cocotb
-	iverilog
-	gource
-	gtkwave
+	perl
 
 Usage:
-
-	To open ipython notebook, run:
-	    ./run.sh
 
 	To run gource animation and save it in video, run:
 	    ./gource.sh
